@@ -1,9 +1,9 @@
 
-- 👋 Hi, I’m @KeshvMishra
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-I'm keshav Mishra from Nepal
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning termux
+- 
+- 📫 How to reach me ...keshavbro2@gmail.com 
 
 <!---
 KeshvMishra/KeshvMishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
